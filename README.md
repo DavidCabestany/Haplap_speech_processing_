@@ -1,6 +1,3 @@
-Certainly! Below is a sample README for your GitHub repository on the topic of "Speech Processing" and your solutions for the assignments from the master you studied:
-
----
 
 # Speech Processing
 
